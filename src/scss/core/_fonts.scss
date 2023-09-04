@@ -1,0 +1,9 @@
+@font-face {
+  src:
+    url("#{$fonts-path}SF-Compact-Rounded/SF-Compact-Rounded-Bold.woff2") format("woff2"),
+    url("#{$fonts-path}SF-Compact-Rounded/SF-Compact-Rounded-Bold.woff") format("woff");
+  font-family: "SF Compact Rounded";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
